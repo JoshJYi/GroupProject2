@@ -4,7 +4,7 @@ Team Name: MIST4610.21482 Group - 5
 Team Members:  
 Annie Cheung: https://github.com/AnnieXCheung/MiST4610-Project2/tree/2af99aafcc02f750e1245b1a48ceba22c9d98b6c  
 Grace Wang: https://github.com/gracecwang/LaCrimeProject/blob/main/README.md  
-Mussie Gebrekidan:  
+Mussie Gebrekidan: https://github.com/MussieEfrem/MIST4610-Project2.git  
 
 Dataset:   
 - Our group picked the data set "Crime Data from 2020 to Present" which provides data on various crimes in the city of Los Angeles.  
